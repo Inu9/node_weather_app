@@ -1,3 +1,2 @@
-echo "node_modules/" > .gitignore
-
-echo -e "# Node.js modules\nnode_modules/" > .gitignore
+# Node.js modules
+node_modules/
